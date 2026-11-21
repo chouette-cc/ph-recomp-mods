@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/chouette-cc/ph-recomp-mods/main/catalog.json
 
 | Mod | Type | Version | Description |
 |---|---|---|---|
-| [Single Screen (Modern HUD)](https://github.com/chouette-cc/ph-recomp-single-screen) | `lua` (Sandboxed) | `1.0.0` | Play Phantom Hourglass on one screen with a sleek minimap PiP, automatic clean map crop, and customizable top-screen peek. |
+| [Single Screen (Modern HUD)](https://github.com/chouette-cc/ph-recomp-single-screen) | `lua` (Sandboxed) | `2.0.0` | Flexible single-screen & side-by-side layouts, 8-way PiP placement with offsets, click-to-bind hotkeys, and automatic top-screen NPC dialogue pop-up. |
 
 ## For Mod Authors — How to Submit a Mod
 
